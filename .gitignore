@@ -4,6 +4,8 @@ intermediate/
 
 # Ignore temporary files:
 *.tmp
+*.swo
+*.swp
 
 # Ignore all files in the data/ directory
 data/*
